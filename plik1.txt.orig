@@ -1,0 +1,7 @@
+test
+<<<<<<< HEAD
+master change
+master change 2
+=======
+zmiana z taska2
+>>>>>>> task2
